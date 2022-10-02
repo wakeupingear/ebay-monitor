@@ -1,0 +1,35 @@
+{
+    "queries": [
+        {
+            "url": "https://www.ebay.com/sch/i.html?_from=R40&_nkw=3070&_sacat=0&LH_BIN=1&_sop=10",
+            "maxPrice": 350,
+            "excludedTerms": [
+                "backplate",
+                "parts",
+                "damage"
+            ],
+            "lastTitle": "$447.00NEW LISTINGASUS KO GEFORCE RTX 3070 OC V2 LHR 8GB GDDR6 GRAPHICS CARD"
+        },
+        {
+            "url": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=3070+ti&_sacat=0&LH_TitleDesc=0&_odkw=3070&_osacat=0&LH_BIN=1&_sop=10",
+            "maxPrice": 400,
+            "excludedTerms": [
+                "backplate",
+                "parts",
+                "damage"
+            ],
+            "lastTitle": "$549.99NEW LISTINGZOTAC GAMING GEFORCE RTX 3070 TI TRINITY OC 8GB GDDR6X GRAPHICS CARD"
+        },
+        {
+            "url": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=3080&_sacat=0&LH_TitleDesc=0&_odkw=3090&_osacat=0&LH_BIN=1&_sop=10",
+            "maxPrice": 440,
+            "excludedTerms": [
+                "backplate",
+                "parts",
+                "damage"
+            ],
+            "lastTitle": "$599.99NEW LISTINGASUS TUF GAMING GEFORCE RTX 3080 10GB GDDR6X GRAPHICS CARD - NON LHR"
+        }
+    ],
+    "email": "willf668@gmail.com"
+}
